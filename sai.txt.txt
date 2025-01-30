@@ -1,0 +1,17 @@
+•	Having 5+ years of IT experience, with diversified fields of analysis, Testing of Performance testing in Loadrunner and JMeter.
+•	Extensive experience in performance testing on JMeter.
+•	Extensive experience in performance test life cycle PTLC.
+•	Specialized in Performance testing using Loadrunner with Web(HTTP/HTML), Web service protocols, having knowledge on SAP GUI.
+•	Involved in preparing POC, NFR, Testplan and Workload model documents.
+•	Experience in Scripting Techniques like i.e., Correlation, Parameterization, Checkpoints and Enhancements using C- Techniques as per business requirement and Errorhandling.
+•	Experience in analyzing the customer requirements and divorcing the performance scenarios
+/conditions based on the client requirements in Controller and Performance Center
+•	Extensive experience in conducting different performance tests like Baseline, Load, Stress, Endurance, Spike and Rendezvous testing.
+•	Expertise in capturing HTTP Requests by using network capturing tool like Blazemeter.
+•	Experience in monitoring resource utilizations (CPU, MEMORY, DISK) of servers by using
+Perfmon.
+•	Expertise in APM tool Dynatrace, Appdynamics to drill down the Performance issues.
+•	Involved in identifying and evaluating various performance metrics in different types such as
+Client side, Server side, Application side as well as DB side.
+•	Involved in generating, analyzing and interrupting the test summery and AWR reports and providethe data to developer team to fix the performance bottlenecks.
+•	Involved in giving recommendations to development team regarding various performance issues in end-to-end flow of performance test results and signoff documents will be prepared and get sign off from the client.
